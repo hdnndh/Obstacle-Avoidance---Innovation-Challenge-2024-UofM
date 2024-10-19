@@ -1,4 +1,4 @@
-# Obstacle-Avoidance---Innovation-Challenge-2024-UofM
+# Obstacle Avoidance - Innovation Challenge 2024 - UofM
 Fastest fully autonomous code to control freenove in obstacle avoidance course 
 
 How It Works:
